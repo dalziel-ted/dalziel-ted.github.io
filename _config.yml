@@ -1,19 +1,17 @@
 # Site settings
 title: TRAN QUOC THANG
 description: TRAN QUOC THANG Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: TRAN QUOC THANG
-user_description: I'm a Software Engineer from Argentina, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in world of Giving Circles working with Grapevine, a California based startup trying to improve the world through collaborative giving. I'm the first engineer they hired to work on the platform.
+user_description:
 user_title: Senior Developer
 email: thangquoctran.qb@gmail.com
 # twitter_username: thangquoctran.qb
-instagram_username: thangquoctran.qb
+instagram_username: thangquoctran
 facebook_username: thangquoctran.qb
-linkedin_username: thangquoctran.qb
-github_username:  thangquoctran.qb
+linkedin_username: thangquoctran
+github_username:  thangquoctranqb
 # medium_username: lorem_ipsum
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
